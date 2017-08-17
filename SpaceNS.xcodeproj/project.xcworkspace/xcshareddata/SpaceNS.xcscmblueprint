@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "905C1B98CAEF67D3B40B6D7764F4D05D1455D66F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "905C1B98CAEF67D3B40B6D7764F4D05D1455D66F" : 9223372036854775807,
+    "4675A43B325A373E651D01B9400E5A4E5208D30F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8DBB7DDE-2385-45F4-AC0B-3C3C230DAD24",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "905C1B98CAEF67D3B40B6D7764F4D05D1455D66F" : "RepoGame\/",
+    "4675A43B325A373E651D01B9400E5A4E5208D30F" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpaceNS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SpaceNS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pittNearsoft\/CoverFlowDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4675A43B325A373E651D01B9400E5A4E5208D30F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:victorhugo\/spacens.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "905C1B98CAEF67D3B40B6D7764F4D05D1455D66F"
+    }
+  ]
+}
